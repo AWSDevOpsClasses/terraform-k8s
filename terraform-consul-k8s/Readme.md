@@ -1,5 +1,7 @@
 Consul Service Mesh Tutorial for Beginners [Crash Course]
+
 https://www.youtube.com/watch?v=s3I1kKKfjtQ
+
 https://gitlab.com/twn-youtube/consul-crash-course
 
 ### Demo project accompanying a [Consul crash course video](https://www.youtube.com/watch?v=s3I1kKKfjtQ) on YouTube
